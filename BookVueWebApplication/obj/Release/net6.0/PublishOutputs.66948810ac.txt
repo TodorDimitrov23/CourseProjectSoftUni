@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Release\net6.0\PubTmp\Out\BookVueWebApplication.exe
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Release\net6.0\PubTmp\Out\BookVueWebApplication.dll
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Release\net6.0\PubTmp\Out\BookVueWebApplication.deps.json
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Release\net6.0\PubTmp\Out\BookVueWebApplication.runtimeconfig.json
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Release\net6.0\PubTmp\Out\BookVueWebApplication.pdb
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Release\net6.0\PubTmp\Out\BookModelLibrary.dll
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Release\net6.0\PubTmp\Out\BookVueSharedLibrary.dll
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Release\net6.0\PubTmp\Out\DAL.dll
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Release\net6.0\PubTmp\Out\BookVueSharedLibrary.pdb
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Release\net6.0\PubTmp\Out\DAL.pdb
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Release\net6.0\PubTmp\Out\BookModelLibrary.pdb

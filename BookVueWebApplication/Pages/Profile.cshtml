@@ -1,0 +1,173 @@
+﻿@page
+@model BookVueWebApplication.Pages.ProfileModel
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        .profile {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 20px;
+            text-align: left;
+        }
+
+        .profile-picture {
+            margin-right: 20px;
+        }
+
+            .profile-picture img {
+                width: 150px;
+                border-radius: 50%;
+            }
+
+        .profile-info {
+            flex: 1;
+        }
+
+        .role {
+            font-style: italic;
+        }
+
+        .about-section {
+            margin-bottom: 20px;
+        }
+
+        .personal-info {
+            width: 100%;
+            height: 100px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+            resize: none;
+        }
+
+        h2 {
+            margin-bottom: 10px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 5px;
+        }
+
+        .book {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+            .book img {
+                width: 100px;
+                margin-right: 10px;
+            }
+
+        .rating-bar {
+            background-color: #ddd;
+            height: 20px;
+            width: 200px;
+            border-radius: 5px;
+            display: flex;
+            overflow: hidden;
+            margin-bottom: 5px;
+        }
+
+            .rating-bar .fill {
+                background-color: #f8c24c;
+                height: 100%;
+                transition: width 0.3s;
+            }
+
+        .rating-buttons {
+            margin-top: 10px;
+            text-align: center;
+        }
+
+        button {
+            padding: 10px 20px;
+            background-color: #333;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <main>
+
+        <section class="profile">
+
+            <div class="profile-picture">
+                <img src="placeholder.jpg" alt="Profile Picture">
+            </div>
+
+            <div class="profile-info">
+                <h2>John Doe</h2>
+                <p class="role">Role: Reader</p>
+            </div>
+
+        </section>
+
+        <section class="about-section">
+            <h2>About the Profile</h2>
+            <textarea class="personal-info" placeholder="Personal Information"></textarea>
+            <p>Some text here </p>
+        </section>
+
+        <section class="personal-books">
+            <h2>Personal Read Books</h2>
+            <div class="book">
+                <img src="book1.jpg" alt="Book 1">
+                <div>
+                    <h3>Book Title 1</h3>
+                    <br />
+                </div>
+            </div>
+            <div class="book">
+                <img src="book2.jpg" alt="Book 2">
+                <div>
+                    <h3>Book Title 2</h3>
+                    <br />
+                </div>
+            </div>
+            <div class="book">
+                <img src="book3.jpg" alt="Book 3">
+                <div>
+                    <h3>Book Title 3</h3>
+                   <br />
+                </div>
+            </div>
+            <div class="rating-buttons">
+                <button>Publish a Book</button>
+                <a class="btn" asp-area="" asp-page="/Books">
+                    <button>Buy a book</button>
+                </a>
+            </div>
+        </section>
+
+    </main>
+
+</body>
+</html>
+

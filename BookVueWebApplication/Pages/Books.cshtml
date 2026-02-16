@@ -1,0 +1,114 @@
+﻿@page
+@model BookVueWebApplication.Pages.BooksModel
+@{
+
+}
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f3f3f3;
+        margin: 0;
+        padding: 0;
+    }
+
+    .book-list {
+        width: 80%;
+        margin: 20px auto;
+        background-color: #fff;
+        padding: 20px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+
+    .book {
+        display: flex;
+        margin-bottom: 20px;
+    }
+
+        .book img {
+            max-width: 120px;
+            max-height: 180px;
+            margin-right: 20px;
+        }
+
+    .book-info {
+        flex: 1;
+    }
+
+    .book-title {
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .book-author {
+        font-size: 18px;
+        color: #777;
+    }
+
+    .book-description {
+        font-size: 16px;
+        margin-top: 10px;
+    }
+
+</style>
+<div class="book-list">
+    @foreach (var book in Model.Books)
+    {
+        <div class="book">
+            @if (book.id == 2) 
+            {
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFtaEDhCI-eyP1Vto_-OE3xnR_ehxLnGgCZY5sIRzoIuxUMM3ew_M3Lt0mFChwOWdVDGE&usqp=CAU" alt="@book.title">
+            }
+            else
+            {
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlFwFKhlrRS4lDhoKXjkDD4_m22H4PiXZufw&usqp=CAU" alt="@book.title">
+            }
+            <div class="book-info">
+                <div class="book-title">@book.title</div>
+                <div class="book-author">@book.author</div>
+                <div class="book-description">
+                    @book.description
+                </div>
+            </div>
+        </div>
+    }
+    
+
+    <div class="book">
+        @foreach (var book in Model.Books)
+        {
+            <div class="book">
+                <img src="(book.id)" alt="@book.title">
+                <div class="book-info">
+                    <div class="book-title">@book.title</div>
+                    <div class="book-author">@book.author</div>
+                    <div class="book-description">@book.description</div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <div class="book">
+        <img src="book4.jpg" alt="Book 4">
+        <div class="book-info">
+            <div class="book-title">Book Title 4</div>
+            <div class="book-author">Author 4</div>
+            <div class="book-description">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, justo et bibendum efficitur, ex tortor a ex.
+            </div>
+        </div>
+    </div>
+
+    <div class="book">
+        <img src="book5.jpg" alt="Book 5">
+        <div class="book-info">
+            <div class="book-title">Book Title 5</div>
+            <div class="book-author">Author 5</div>
+            <div class="book-description">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, justo et bibendum efficitur, ex tortor a ex.
+            </div>
+        </div>
+    </div>
+
+</div>
+
+

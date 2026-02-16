@@ -1,0 +1,88 @@
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\BookVueWebApplication.staticwebassets.runtime.json
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\BookVueWebApplication.exe
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\BookVueWebApplication.deps.json
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\BookVueWebApplication.runtimeconfig.json
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\BookVueWebApplication.dll
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\BookVueWebApplication.pdb
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\DAL.dll
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\DAL.pdb
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueWebApplication.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueWebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueWebApplication.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueWebApplication.AssemblyInfo.cs
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueWebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueWebApplication.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueWebApplication.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\staticwebassets\msbuild.BookVueWebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\staticwebassets\msbuild.build.BookVueWebApplication.props
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookVueWebApplication.props
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookVueWebApplication.props
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\scopedcss\bundle\BookVueWebApplication.styles.css
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\scopedcss\projectbundle\BookVueWebApplication.bundle.scp.css
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueWebApplication.dll
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\refint\BookVueWebApplication.dll
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueWebApplication.pdb
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueWebApplication.genruntimeconfig.cache
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\ref\BookVueWebApplication.dll
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\BookModelLibrary.dll
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\BookModelLibrary.pdb
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\BookVueSharedLibrary.dll
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\BookVueSharedLibrary.pdb
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueW.4134EE0B.Up2Date
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\BookVueWebApplication.staticwebassets.runtime.json
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\BookVueWebApplication.exe
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\BookVueWebApplication.deps.json
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\BookVueWebApplication.runtimeconfig.json
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\BookVueWebApplication.dll
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\BookVueWebApplication.pdb
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\BookModelLibrary.dll
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\BookVueSharedLibrary.dll
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\DAL.dll
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\BookVueSharedLibrary.pdb
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\DAL.pdb
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\bin\Debug\net6.0\BookModelLibrary.pdb
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueWebApplication.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueWebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueWebApplication.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueWebApplication.AssemblyInfo.cs
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueWebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueWebApplication.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueWebApplication.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\staticwebassets\msbuild.BookVueWebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\staticwebassets\msbuild.build.BookVueWebApplication.props
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookVueWebApplication.props
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookVueWebApplication.props
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\scopedcss\bundle\BookVueWebApplication.styles.css
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\scopedcss\projectbundle\BookVueWebApplication.bundle.scp.css
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueW.4134EE0B.Up2Date
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueWebApplication.dll
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\refint\BookVueWebApplication.dll
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueWebApplication.pdb
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\BookVueWebApplication.genruntimeconfig.cache
+C:\Users\user\Desktop\Individual Project-Book Store\bookshop-individual-project\BookVue Project\BookVueWebApplication\BookVueWebApplication\obj\Debug\net6.0\ref\BookVueWebApplication.dll

@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueSharedLibrary\bin\Release\net6.0\BookVueSharedLibrary.deps.json
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueSharedLibrary\bin\Release\net6.0\BookVueSharedLibrary.dll
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueSharedLibrary\bin\Release\net6.0\BookVueSharedLibrary.pdb
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueSharedLibrary\bin\Release\net6.0\BookModelLibrary.dll
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueSharedLibrary\bin\Release\net6.0\DAL.dll
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueSharedLibrary\bin\Release\net6.0\DAL.pdb
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueSharedLibrary\bin\Release\net6.0\BookModelLibrary.pdb
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueSharedLibrary\obj\Release\net6.0\BookVueSharedLibrary.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueSharedLibrary\obj\Release\net6.0\BookVueSharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueSharedLibrary\obj\Release\net6.0\BookVueSharedLibrary.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueSharedLibrary\obj\Release\net6.0\BookVueSharedLibrary.AssemblyInfo.cs
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueSharedLibrary\obj\Release\net6.0\BookVueSharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueSharedLibrary\obj\Release\net6.0\BookVueSharedLibrary.csproj.CopyComplete
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueSharedLibrary\obj\Release\net6.0\BookVueSharedLibrary.dll
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueSharedLibrary\obj\Release\net6.0\refint\BookVueSharedLibrary.dll
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueSharedLibrary\obj\Release\net6.0\BookVueSharedLibrary.pdb
+C:\Users\user\Desktop\Individual Project - Todor\bookvue-individual-project\BookVue Project\BookVueWebApplication\BookVueSharedLibrary\obj\Release\net6.0\ref\BookVueSharedLibrary.dll

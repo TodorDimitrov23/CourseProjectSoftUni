@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BookVueWebApplication/1.0.0": {
+        "dependencies": {
+          "BookVueSharedLibrary": "1.0.0",
+          "DAL": "1.0.0"
+        },
+        "runtime": {
+          "BookVueWebApplication.dll": {}
+        }
+      },
+      "BookModelLibrary/1.0.0": {
+        "runtime": {
+          "BookModelLibrary.dll": {}
+        }
+      },
+      "BookVueSharedLibrary/1.0.0": {
+        "dependencies": {
+          "DAL": "1.0.0"
+        },
+        "runtime": {
+          "BookVueSharedLibrary.dll": {}
+        }
+      },
+      "DAL/1.0.0": {
+        "dependencies": {
+          "BookModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookVueWebApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookModelLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookVueSharedLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
